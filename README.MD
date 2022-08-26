@@ -11,7 +11,7 @@ Aplicação de controle de finanças
 
 ## Vercel
 
-Você pode ver o projeto atráves [desse link](https://dtmoney-dusky-alpha.vercel.app/)
+Você pode ver o projeto atráves [desse link](https://dtmoney-vite.vercel.app/)
 
 ## Vizualizar localmente
 
